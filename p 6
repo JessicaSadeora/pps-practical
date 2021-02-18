@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+   int a = 5, b = 5;
+
+   // a is displayed
+   // Then, a is increased to 6.
+   printf("%d\n", a++);
+
+   // b is increased to 6 
+   // Then, it is displayed.
+   printf("%d\n", ++b);
+
+   return 0;
+}

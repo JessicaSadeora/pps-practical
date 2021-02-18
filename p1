@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+ //using puts
+    puts("program1 using puts");
+   
+
+    printf("program 1 using printf");
+
+     return 0;}
